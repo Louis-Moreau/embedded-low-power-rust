@@ -1,4 +1,4 @@
-# embedded-low-power-rust
+# embedded-low-power-rust-test
 Repo to test low power modes of a STM32L0 µC using Rust for personnal projects
 
 Microcontroller Board used : STMicroelectronics NUCLEO-L010RB
